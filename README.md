@@ -35,6 +35,18 @@ Jika sudah, pengguna dapat melihat beberapa view yang disediakan oleh Focalboard
 
 ![image](https://user-images.githubusercontent.com/54672222/237062071-b0c08ea4-123e-4d89-bf57-fc24361d503c.png)
 
+1. Board View
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/ce625bc8-e4b1-43ff-920e-3b0b0f694468)
+
+2. Calendar View
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/6ded401a-e173-4ddd-ab6e-89ad7edd78dc)
+
+3. Gallery View
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/e6bd9378-909a-4ca0-947d-9c62fcbe31b4)
+
+4. Table View
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/29be26fd-7fb1-4ba1-a20f-b4a52c0c4588)
+
 Keempat view berikut dapat membantu dalam memvisualisasikan item pekerjaan dengan format yang paling sesuai dengan pengguna.
 
 ![image](https://user-images.githubusercontent.com/54672222/237063329-5e3ede52-dc52-4246-99e9-e6890e8cd41d.png)
@@ -55,4 +67,17 @@ Pengguna dapat memilih properties yang ingin disertakan ke dalam card diantarany
  - Person and Multi-person menyediakan cara cepat untuk menangkap tugas pengguna. Perhatikan bahwa ini tidak tersedia di Personal Desktop.
  - Checkbox adalah properti toggle yang dapat digunakan untuk menetapkan opsi biner sederhana pada kartu seperti Benar/Salah atau Ya/Tidak.
  - Created time/Created by/Last updated time/Last updated adalah properti sistem yang telah ditentukan sebelumnya untuk membantu Anda mengaudit perubahan pada kartu. Nama properti ini dapat disesuaikan, tetapi nilainya tidak.
+
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/ca76fc50-e419-4acd-b4ac-79237d7a9ba9)
+Terdapat juga attachment, yang berfungsi untuk menyertakan file pada cards yang dituju.
+
+Export CSV
+1. Klik titik tiga di sebelah kanan search, lalu klik Export to CSV
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/ba2e0db8-a048-4f6b-9156-898ad4a2dff8)
+
+2. Selanjutnya akan tampil list unduhan, dan pilih file csv yang sudah di export
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/9c44cddd-af21-4d7e-8112-c81246bb7af5)
+
+![image](https://github.com/opickbintang19/dokumentasi-focalboard/assets/54672222/8e6287b9-5793-423d-a94d-f5a0dde5a0d7)
+
 
