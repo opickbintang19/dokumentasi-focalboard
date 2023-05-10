@@ -37,6 +37,7 @@ Untuk membuat card baru, pengguna dapat mengklik button New yang akan diarahkan 
 ![image](https://user-images.githubusercontent.com/54672222/237063463-e749c01e-09fa-4dd6-87f4-87930fc22a02.png)
 
 ![image](https://user-images.githubusercontent.com/54672222/237063586-15656106-6b1a-41a2-9b7e-5fbd794159b2.png)
+
 Pengguna dapat memilih properties yang ingin disertakan ke dalam card diantaranya : 
  - Text can be used to add short notes to a card. An advantage of the text property over card descriptions is that it can be shown on the board without needing to open the card.
  - Numbers are useful to capture metrics such as task sizing or effort estimates. Use in conjunction with calculations to get the most out of the number property type.
