@@ -30,9 +30,10 @@ Ini merupakan tampilan awal jika pengguna memilih membuat board baru. Pengguna d
 ![image](https://user-images.githubusercontent.com/54672222/237061040-39e72619-3d5f-43c7-a9f4-31bd0d59ce74.png)
 Jika sudah, pengguna dapat melihat beberapa view yang disediakan oleh Focalboard, tampilan default jika membuatnya dari nol ialah *Board view*. Terdapat beberapa pilihan view yang disediakan diantaranya
 ![image](https://user-images.githubusercontent.com/54672222/237062071-b0c08ea4-123e-4d89-bf57-fc24361d503c.png)
-Keempat view berikut dapat membantu dalam memvisualisasikan item pekerjaan dengan format yang paling sesuai dengan pengguna.
 
+Keempat view berikut dapat membantu dalam memvisualisasikan item pekerjaan dengan format yang paling sesuai dengan pengguna.
 ![image](https://user-images.githubusercontent.com/54672222/237063329-5e3ede52-dc52-4246-99e9-e6890e8cd41d.png)
+
 Untuk membuat card baru, pengguna dapat mengklik button New yang akan diarahkan ke sebuah pop-up
 ![image](https://user-images.githubusercontent.com/54672222/237063463-e749c01e-09fa-4dd6-87f4-87930fc22a02.png)
 
