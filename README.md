@@ -1,4 +1,4 @@
-# dokumentasi-focalboard
+# dokumentasi-tools-manpro
 Ditujukan untuk Tugas Manajemen Proyek
 
 Dokumentasi Lengkap : https://www.academia.edu/101733006/DOKUMENTASI_PERBANDINGAN_TOOLS_MANAJEMEN_PROYEK_NOTION_DENGAN_FOCALBOARD
