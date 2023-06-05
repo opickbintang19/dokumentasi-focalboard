@@ -5,7 +5,7 @@ Dokumentasi Lengkap : https://www.academia.edu/101733006/DOKUMENTASI_PERBANDINGA
 
 Daftar Isi
 - [Tentang Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#notion)
-- [Fitur-fitur pada Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#fitur-fitur)
+- [Fitur-fitur pada Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#fitur-fitur-notion)
 - [Tutorial Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#tutorial-penggunaan-notion-pada-manajemen-proyek)
 
 # Notion
@@ -32,7 +32,7 @@ Jika pengguna ingin menginstallnya ke komputer pribadi, dapat diunduh pada link 
 
 Untuk panduan lengkap tentang notion dapat diakses pada https://www.notion.so/help
 
-# Fitur-fitur
+# Fitur-fitur Notion
 Terdapat beberapa fitur utama pada notion diantaranya ialah :
 1. View
 
@@ -108,6 +108,12 @@ Gallery view menampilkan preview berupa isi yang ada pada card, sehingga penggun
 
 Focalboard
 -----
+Daftar Isi
+- [Tentang Focalboard](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#focalboard)
+- [Fitur-fitur Focalboard](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#fitur-fitur-focalboard)
+- a
+
+# Focalboard
 Focalboard merupakan salah satu tools manajemen proyek yang berbasis open-source yang dibuat oleh perusahaan bernama Mattermost. Focalboard dapat diunduh di https://www.focalboard.com/docs/personal-edition/desktop/
 
 Focalboard sendiri dapat mengakselerasi produktivitas tim dengan mengorganisasi satu sumber sehingga tim dapat fokus menyelesaikan tugas dan meraih tujuan dari proyek maupun perusahaan. Focalboard dapat digunakan di berbagai sistem operasi seperti MacOs, Linux dan Windows. Beberapa kegunaan focalboard ialah antara lain dapat digunakan sebagai :
@@ -123,6 +129,10 @@ Focalboard sendiri dapat mengakselerasi produktivitas tim dengan mengorganisasi 
 -	Content calendar
 -	Team retrospective
 -	Roadmap
+
+# Fitur-fitur Focalboard
+
+# Tutorial
 
 -----
 
