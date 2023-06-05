@@ -3,6 +3,9 @@ Ditujukan untuk Tugas Manajemen Proyek
 
 Dokumentasi Lengkap : https://www.academia.edu/101733006/DOKUMENTASI_PERBANDINGAN_TOOLS_MANAJEMEN_PROYEK_NOTION_DENGAN_FOCALBOARD
 -----
+# Notion
+![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/b1ebc61a-0ae7-4799-b2b9-75616e788691)
+
 Notion merupakan  salah satu tools manajemen proyek yang dapat dijalankan di berbagai sistem operasi. Notion juga dapat dijalankan di web browser, jadi pengguna tidak perlu melakukan penginstallan di personal computer mereka. Untuk menggunakan notion yang bisa kolaborasi dengan tim, pengguna akan dikenakan biaya berlangganan dan sebagai gantinya dapat menikmati fitur-fitur berbayar salah satunya terdapat fitur Artificial Intelligence. Notion dapat digunakan sebagai
 - To-do list
 - Reading list
@@ -16,6 +19,8 @@ Notion merupakan  salah satu tools manajemen proyek yang dapat dijalankan di ber
 - Dan masih banyak lagi
 
 Dalam menggunakan notion terdapat 2 cara yaitu dengan instalasi maupun tanpa instalasi. Tanpa instalasi yaitu dengan cara membuka website notion di https://www.notion.so/login. Jika pengguna ingin menginstallnya ke komputer pribadi, dapat diunduh pada link https://www.notion.so/desktop   dan dapat diunduh sesuai sistem operasi yang digunakan.
+![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/37fb1f4d-2c40-4e05-9fd0-aaec14561aed)
+![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/907a63dc-e02d-4fee-b935-da10af2bb08c)
 
 -----
 
