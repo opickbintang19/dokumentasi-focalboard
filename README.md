@@ -155,15 +155,15 @@ Terdapat 4 macam view pada focalboard yang dapat disesuaikan dengan kebutuhan pe
 <img src="Focalboard/Picture9.png" alt="Alt text" title="Optional title">
 
 Pengguna dapat memilih properties yang ingin disertakan ke dalam card diantaranya :
-•	Text dapat digunakan untuk menambahkan catatan pendek ke kartu. Keuntungan dari properti teks dibandingkan deskripsi kartu adalah dapat ditampilkan di papan tulis tanpa perlu membuka kartu.
-•	Numbers berguna untuk menangkap metrik seperti ukuran tugas atau perkiraan upaya.
-•	Email and Phone berguna untuk mencatat informasi kontak
-•	URL dapat digunakan untuk memberikan tautan ke permintaan penarikan atau situs web yang relevan. Mengklik kotak properti URL akan secara otomatis membuka tautan di tab baru di browser Anda.
-•	Select and Multi-select memungkinkan Anda membuat daftar opsi yang telah ditentukan sebelumnya yang dapat diberi kode warna dan ditampilkan sebagai lencana pada kartu untuk menunjukkan hal-hal seperti status dan prioritas.Fitur ini hanya terdapat pada fitur berbayar
-•	Dates berguna untuk mengatur dan melacak tanggal jatuh tempo.
-•	Person and Multi-person menyediakan cara cepat untuk menangkap tugas pengguna. Perhatikan bahwa ini tidak tersedia di Personal Desktop.
-•	Checkbox adalah properti toggle yang dapat digunakan untuk menetapkan opsi biner sederhana pada kartu seperti Benar/Salah atau Ya/Tidak.
-•	Created time/Created by/Last updated time/Last updated adalah properti sistem yang telah ditentukan sebelumnya untuk membantu Anda mengaudit perubahan pada kartu. Nama properti ini dapat disesuaikan, tetapi nilainya tidak.
+- Text dapat digunakan untuk menambahkan catatan pendek ke kartu. Keuntungan dari properti teks dibandingkan deskripsi kartu adalah dapat ditampilkan di papan tulis tanpa perlu membuka kartu.
+- Numbers berguna untuk menangkap metrik seperti ukuran tugas atau perkiraan upaya.
+- Email and Phone berguna untuk mencatat informasi kontak
+- URL dapat digunakan untuk memberikan tautan ke permintaan penarikan atau situs web yang relevan. Mengklik kotak properti URL akan secara otomatis membuka tautan di tab baru di browser Anda.
+- Select and Multi-select memungkinkan Anda membuat daftar opsi yang telah ditentukan sebelumnya yang dapat diberi kode warna dan ditampilkan sebagai lencana pada kartu untuk menunjukkan hal-hal seperti status dan prioritas.Fitur ini hanya terdapat pada fitur berbayar
+- Dates berguna untuk mengatur dan melacak tanggal jatuh tempo.
+- Person and Multi-person menyediakan cara cepat untuk menangkap tugas pengguna. Perhatikan bahwa ini tidak tersedia di Personal Desktop.
+- Checkbox adalah properti toggle yang dapat digunakan untuk menetapkan opsi biner sederhana pada kartu seperti Benar/Salah atau Ya/Tidak.
+- Created time/Created by/Last updated time/Last updated adalah properti sistem yang telah ditentukan sebelumnya untuk membantu Anda mengaudit perubahan pada kartu. Nama properti ini dapat disesuaikan, tetapi nilainya tidak.
 
 3. Attachment
 
@@ -171,7 +171,48 @@ Pengguna dapat memilih properties yang ingin disertakan ke dalam card diantarany
 
 Terdapat juga attachment, yang berfungsi untuk menyertakan file pada cards yang dituju
 
+4. Content
+
+<img src="Focalboard/Picture11.png" alt="Alt text" title="Optional title">
+
+Konten yang dapat digunakan oleh pengguna ialah berupa text, image atau gambar, divider atau garis pembatas, dan checkbox untuk menceklis item
+
 # Tutorial Focalboard
+
+<img src="Focalboard/Picture20.png" alt="Alt text" title="Optional title">
+
+Pada tampilan berikut, pengguna dapat memilih apakah ingin menggunakan template yang sudah ada atau membuatnya dari nol. Untuk tahap ini saya akan memulainya dari nol.
+
+<img src="Focalboard/Picture21.png" alt="Alt text" title="Optional title">
+
+Klik button “Create an empty board” untuk memulainya dari nol.
+
+<img src="Focalboard/Picture22.png" alt="Alt text" title="Optional title">
+
+Ini merupakan tampilan awal jika pengguna memilih membuat board baru. Pengguna dapat memberikan judul board terlebih dahulu
+
+
+<img src="Focalboard/Picture23.png" alt="Alt text" title="Optional title">
+
+Jika sudah, pengguna dapat melihat beberapa view yang disediakan oleh Focalboard, tampilan default jika membuatnya dari nol ialah Board view. Terdapat beberapa pilihan view yang disediakan diantaranya.
+
+<img src="Focalboard/Picture24.png" alt="Alt text" title="Optional title">
+
+Keempat view berikut dapat membantu dalam memvisualisasikan item pekerjaan dengan format yang paling sesuai dengan pengguna.
+
+
+<img src="Focalboard/Picture25.png" alt="Alt text" title="Optional title">
+
+Untuk membuat card baru, pengguna dapat mengklik button “+ New” yang akan diarahkan ke sebuah pop-up.
+
+<img src="Focalboard/Picture26.png" alt="Alt text" title="Optional title">
+
+Pengguna dapat memilih ikon yang disesuaikan dengan maksud dan tujuan yang ingin dicapai
+
+<img src="Focalboard/Picture27.png" alt="Alt text" title="Optional title">
+
+Gambar dibawah merupakan contoh dari hasil penggunaan focalboard pada manajemen proyek yang penulis lakukan.
+<img src="Focalboard/Picture28.png" alt="Alt text" title="Optional title">
 
 -----
 
