@@ -30,20 +30,24 @@ Untuk panduan lengkap tentang notion dapat diakses pada https://www.notion.so/he
 # Fitur-fitur
 Terdapat beberapa fitur utama pada notion diantaranya ialah :
 1. View
+
 View pada Notion seperti Table, Board, Calendar dan Gallery terdapat juga pada Notion. Di Notion juga terdapat tambahan view berupa Timeline dan List View.
 
 <img src="Notion/Picture4.png" alt="Alt text" title="Optional title">
 
 2. Import
+
 Notion dapat melakukan import dari berbagai aplikasi seperti Trello, Google Docs, Word dan masih banyak lagi.
 
 <img src="Notion/Picture5.png" alt="Alt text" title="Optional title">
 
 3. Template
+
 Notion juga menyediakan berbagai macam template mulai dari template untuk sehari-sehari seperti to-do list hingga template proyek manajemen.
 
 <img src="Notion/Picture6.png" alt="Alt text" title="Optional title">
 4. AI
+
 Sebagai tools manajemen proyek, Notion juga menyediakan AI secara gratis untuk 20 kali penggunaan. AI ini dapat digunakan untuk menulis tentang ide-ide yang telah dibuat secara garis besar kemudian dilanjutkan dengan AI.
 
 <img src="Notion/Picture7.png" alt="Alt text" title="Optional title">
