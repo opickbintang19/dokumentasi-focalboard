@@ -22,6 +22,11 @@ Dalam menggunakan notion terdapat 2 cara yaitu dengan instalasi maupun tanpa ins
 ![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/37fb1f4d-2c40-4e05-9fd0-aaec14561aed)
 ![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/907a63dc-e02d-4fee-b935-da10af2bb08c)
 
+# Fitur-fitur
+Terdapat beberapa fitur utama pada notion diantaranya ialah :
+1. View
+![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/e584bcb0-1ba8-44ee-b061-ec72bf218125)
+
 -----
 
 Focalboard merupakan salah satu tools manajemen proyek yang berbasis open-source yang dibuat oleh perusahaan bernama Mattermost. Focalboard dapat diunduh di https://www.focalboard.com/docs/personal-edition/desktop/
