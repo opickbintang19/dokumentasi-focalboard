@@ -6,7 +6,7 @@ Dokumentasi Lengkap : https://www.academia.edu/101733006/DOKUMENTASI_PERBANDINGA
 Daftar Isi
 - [Tentang Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#notion)
 - [Fitur-fitur pada Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#fitur-fitur)
-- [Tutorial Notion](Tutorial Penggunaan Notion pada Manajemen Proyek)
+- [Tutorial Notion](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#tutorial-penggunaan-notion-pada manajemen-proyek)
 
 
 # Notion
