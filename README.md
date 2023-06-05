@@ -18,9 +18,12 @@ Notion merupakan  salah satu tools manajemen proyek yang dapat dijalankan di ber
 - Project & tasks
 - Dan masih banyak lagi
 
-Dalam menggunakan notion terdapat 2 cara yaitu dengan instalasi maupun tanpa instalasi. Tanpa instalasi yaitu dengan cara membuka website notion di https://www.notion.so/login. Jika pengguna ingin menginstallnya ke komputer pribadi, dapat diunduh pada link https://www.notion.so/desktop   dan dapat diunduh sesuai sistem operasi yang digunakan.
-![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/37fb1f4d-2c40-4e05-9fd0-aaec14561aed)
-![image](https://github.com/opickbintang19/dokumentasi-tools-manpro/assets/54672222/907a63dc-e02d-4fee-b935-da10af2bb08c)
+Dalam menggunakan notion terdapat 2 cara yaitu dengan instalasi maupun tanpa instalasi. Tanpa instalasi yaitu dengan cara membuka website notion di https://www.notion.so/login. 
+<img src="Notion/Picture2.png" alt="Alt text" title="Optional title">
+Jika pengguna ingin menginstallnya ke komputer pribadi, dapat diunduh pada link https://www.notion.so/desktop   dan dapat diunduh sesuai sistem operasi yang digunakan.
+<img src="Notion/Picture3.png" alt="Alt text" title="Optional title">
+
+Untuk panduan lengkap tentang notion dapat diakses pada https://www.notion.so/help
 
 # Fitur-fitur
 Terdapat beberapa fitur utama pada notion diantaranya ialah :
