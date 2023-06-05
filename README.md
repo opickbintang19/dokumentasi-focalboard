@@ -19,8 +19,10 @@ Notion merupakan  salah satu tools manajemen proyek yang dapat dijalankan di ber
 - Dan masih banyak lagi
 
 Dalam menggunakan notion terdapat 2 cara yaitu dengan instalasi maupun tanpa instalasi. Tanpa instalasi yaitu dengan cara membuka website notion di https://www.notion.so/login. 
+
 <img src="Notion/Picture2.png" alt="Alt text" title="Optional title">
 Jika pengguna ingin menginstallnya ke komputer pribadi, dapat diunduh pada link https://www.notion.so/desktop   dan dapat diunduh sesuai sistem operasi yang digunakan.
+
 <img src="Notion/Picture3.png" alt="Alt text" title="Optional title">
 
 Untuk panduan lengkap tentang notion dapat diakses pada https://www.notion.so/help
