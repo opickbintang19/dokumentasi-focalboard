@@ -51,6 +51,12 @@ Notion juga menyediakan berbagai macam template mulai dari template untuk sehari
 Sebagai tools manajemen proyek, Notion juga menyediakan AI secara gratis untuk 20 kali penggunaan. AI ini dapat digunakan untuk menulis tentang ide-ide yang telah dibuat secara garis besar kemudian dilanjutkan dengan AI.
 
 <img src="Notion/Picture7.png" alt="Alt text" title="Optional title">
+
+# Tutorial Penggunaan Notion pada Manajemen Proyek
+
+<img src="Notion/Picture8.png" alt="Alt text" title="Optional title">
+
+Pertama-tama, pengguna dapat memberikan judul yang ingin diberikan semisal pada Gambar diatas saya memberikan judul “Manajemen Proyek – Husain” dan kemudian memilih view apa yang akan dipilih.
 -----
 
 Focalboard merupakan salah satu tools manajemen proyek yang berbasis open-source yang dibuat oleh perusahaan bernama Mattermost. Focalboard dapat diunduh di https://www.focalboard.com/docs/personal-edition/desktop/
