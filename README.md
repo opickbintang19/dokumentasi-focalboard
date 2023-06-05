@@ -111,10 +111,10 @@ Focalboard
 Daftar Isi
 - [Tentang Focalboard](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#focalboard)
 - [Fitur-fitur Focalboard](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#fitur-fitur-focalboard)
-- a
+- [Tutorial Focalboard](https://github.com/opickbintang19/dokumentasi-tools-manpro/blob/master/README.md#tutorial-focalboard)
 
 # Focalboard
-Focalboard merupakan salah satu tools manajemen proyek yang berbasis open-source yang dibuat oleh perusahaan bernama Mattermost. Focalboard dapat diunduh di https://www.focalboard.com/docs/personal-edition/desktop/
+<img src="Focalboard/Picture1.png" alt="Alt text" title="Optional title">
 
 Focalboard sendiri dapat mengakselerasi produktivitas tim dengan mengorganisasi satu sumber sehingga tim dapat fokus menyelesaikan tugas dan meraih tujuan dari proyek maupun perusahaan. Focalboard dapat digunakan di berbagai sistem operasi seperti MacOs, Linux dan Windows. Beberapa kegunaan focalboard ialah antara lain dapat digunakan sebagai :
 -	Meeting agenda
@@ -130,9 +130,48 @@ Focalboard sendiri dapat mengakselerasi produktivitas tim dengan mengorganisasi 
 -	Team retrospective
 -	Roadmap
 
-# Fitur-fitur Focalboard
+Focalboard merupakan salah satu tools manajemen proyek yang berbasis open-source yang dibuat oleh perusahaan bernama Mattermost. Focalboard dapat diunduh di https://www.focalboard.com/docs/personal-edition/desktop/ , diunduh pada Microsoft Store dan dapat diunduh melalui github focalboard
 
-# Tutorial
+<img src="Focalboard/Picture2.png" alt="Alt text" title="Optional title">
+<img src="Focalboard/Picture3.png" alt="Alt text" title="Optional title">
+<img src="Focalboard/Picture4.png" alt="Alt text" title="Optional title">
+
+
+# Fitur-fitur Focalboard
+1. View
+
+<img src="Focalboard/Picture5.png" alt="Alt text" title="Optional title">
+
+<img src="Focalboard/Picture6.png" alt="Alt text" title="Optional title">
+
+<img src="Focalboard/Picture7.png" alt="Alt text" title="Optional title">
+
+<img src="Focalboard/Picture8.png" alt="Alt text" title="Optional title">
+
+Terdapat 4 macam view pada focalboard yang dapat disesuaikan dengan kebutuhan pengguna
+
+2. Properties
+
+<img src="Focalboard/Picture9.png" alt="Alt text" title="Optional title">
+
+Pengguna dapat memilih properties yang ingin disertakan ke dalam card diantaranya :
+•	Text dapat digunakan untuk menambahkan catatan pendek ke kartu. Keuntungan dari properti teks dibandingkan deskripsi kartu adalah dapat ditampilkan di papan tulis tanpa perlu membuka kartu.
+•	Numbers berguna untuk menangkap metrik seperti ukuran tugas atau perkiraan upaya.
+•	Email and Phone berguna untuk mencatat informasi kontak
+•	URL dapat digunakan untuk memberikan tautan ke permintaan penarikan atau situs web yang relevan. Mengklik kotak properti URL akan secara otomatis membuka tautan di tab baru di browser Anda.
+•	Select and Multi-select memungkinkan Anda membuat daftar opsi yang telah ditentukan sebelumnya yang dapat diberi kode warna dan ditampilkan sebagai lencana pada kartu untuk menunjukkan hal-hal seperti status dan prioritas.Fitur ini hanya terdapat pada fitur berbayar
+•	Dates berguna untuk mengatur dan melacak tanggal jatuh tempo.
+•	Person and Multi-person menyediakan cara cepat untuk menangkap tugas pengguna. Perhatikan bahwa ini tidak tersedia di Personal Desktop.
+•	Checkbox adalah properti toggle yang dapat digunakan untuk menetapkan opsi biner sederhana pada kartu seperti Benar/Salah atau Ya/Tidak.
+•	Created time/Created by/Last updated time/Last updated adalah properti sistem yang telah ditentukan sebelumnya untuk membantu Anda mengaudit perubahan pada kartu. Nama properti ini dapat disesuaikan, tetapi nilainya tidak.
+
+3. Attachment
+
+<img src="Focalboard/Picture10.png" alt="Alt text" title="Optional title">
+
+Terdapat juga attachment, yang berfungsi untuk menyertakan file pada cards yang dituju
+
+# Tutorial Focalboard
 
 -----
 
